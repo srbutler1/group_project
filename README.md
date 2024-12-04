@@ -6,6 +6,6 @@ This tool provides a user-friendly interface powered by Streamlit, allowing user
 File path should be: 
 my_project/
 ├── wrds_tool/
-│   ├── __init__.py  # from .wrds_tool import connect_to_wrds, get_top_500_funds, fetch_tickers, optimize_portfolio, plot_efficient_frontier
+│   ├── __init__.py 
 │   ├── wrds_tool.py
 ├── wrds_ui.py
